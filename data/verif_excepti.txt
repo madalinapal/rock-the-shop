@@ -1,0 +1,7 @@
+Invalid CNP:
+manager
+id0001 Maria Niculescu 3050117045375 2022-10-01
+
+Nu are 18 ani:
+manager
+id0002 Alexandra Bratu 6100117045375 2022-09-10

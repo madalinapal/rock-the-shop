@@ -1,0 +1,148 @@
+haina 101 20 45 albastru adidas
+haina 102 15 40 negru nike
+haina 103 30 50 rosu puma
+haina 104 25 35 alb reebok
+haina 105 10 60 verde new_balance
+haina 106 12 55 galben fila
+haina 107 18 70 albastru champion
+haina 108 22 48 gri lacoste
+haina 109 35 42 portocaliu umbro
+haina 110 28 47 maro calvin_klein
+disc 111 50 75 cd sony_music 12-05-2005 Nirvana Nevermind
+disc 112 60 65 vinyl universal_music 20-08-1999 Radiohead OK_Computer
+disc 113 45 80 cd warner_bros 10-06-2010 Arctic_Monkeys AM
+disc 114 38 95 vinyl interscope 15-09-2012 Lana_Del_Rey Born_to_Die
+disc 115 25 88 cd epic 05-11-2003 OutKast Speakerboxxx
+vintage_disc 116 8 100 1 4
+disc 117 12 120 cd def_jam 18-04-2001 Jay_Z The_Blueprint
+disc 118 14 140 vinyl atlantic 12-07-1973 Led_Zeppelin Houses_of_the_Holy
+vintage_disc 119 3 150 1 5
+haina 120 6 30 roz guess
+haina 121 9 34 violet versace
+haina 122 5 29 cyan diesel
+haina 123 8 31 burgundy tommy_hilfiger
+haina 124 13 40 navy zara
+disc 125 17 70 cd apple 05-03-1969 The_Beatles Abbey_Road
+vintage_disc 126 4 80 0 3
+disc 127 19 90 vinyl sony 11-02-1991 Metallica Black_Album
+haina 128 7 25 olive balenciaga
+haina 129 11 20 denim levi_s
+haina 130 10 50 charcoal armani
+disc 131 9 60 cd sony 14-06-2007 Daft_Punk Alive_2007
+disc 132 13 45 vinyl warner 21-09-1994 Green_Day Dookie
+disc 133 18 55 cd capital 16-10-2008 Coldplay Viva_La_Vida
+vintage_disc 134 2 110 1 5
+disc 135 15 100 cd elektra 07-09-1984 Prince Purple_Rain
+disc 136 17 105 vinyl geffen 28-10-1986 Guns_N_Roses Appetite_for_Destruction
+vintage_disc 137 1 125 0 2
+haina 138 3 22 ivory gucci
+haina 139 4 35 beige prada
+haina 140 5 28 emerald mango
+disc 141 6 65 cd rca 19-12-2011 Adele 21
+disc 142 7 77 vinyl sony 03-01-1975 Pink_Floyd Wish_You_Were_Here
+vintage_disc 143 9 88 1 4
+haina 144 10 30 cyan burberry
+haina 145 8 40 mint supreme
+haina 146 12 50 gold dior
+disc 147 14 60 cd epic 23-07-1982 Michael_Jackson Thriller
+disc 148 15 85 vinyl def_jam 28-09-1987 Public_Enemy It_Takes_a_Nation
+vintage_disc 149 4 90 0 3
+disc 150 6 95 cd geffen 13-11-1991 Nirvana Nevermind
+haina 151 10 44 crimson north_face
+haina 152 12 37 coral patagonia
+haina 153 9 41 teal nike
+haina 154 7 33 cobalt adidas
+disc 155 10 78 cd columbia 22-05-1972 Billy_Joel Piano_Man
+disc 156 14 67 vinyl emi 08-02-1980 Queen The_Game
+vintage_disc 157 5 135 1 5
+disc 158 16 92 cd warner 30-06-1998 Linkin_Park Hybrid_Theory
+disc 159 11 60 vinyl capitol 01-11-1970 Paul_McCartney McCartney
+haina 160 8 26 onyx stone_island
+haina 161 15 53 sapphire gucci
+haina 162 6 21 pearl louis_vuitton
+disc 163 17 85 cd atco 11-03-1977 AC_DC Let_There_Be_Rock
+disc 164 18 115 vinyl mca 14-06-1978 Lynyrd_Skynyrd Street_Survivors
+vintage_disc 165 2 140 1 4
+haina 166 13 36 azure lacoste
+haina 167 14 49 garnet tommy_hilfiger
+haina 168 9 32 jade burberry
+disc 169 19 97 cd sony 12-10-1993 Pearl_Jam Vs
+vintage_disc 170 3 150 0 5
+haina 171 5 25 sand timberland
+haina 172 4 31 amber prada
+haina 173 11 47 charcoal gucci
+disc 174 8 72 cd virgin 05-06-1987 Genesis Invisible_Touch
+disc 175 6 83 vinyl def_jam 21-07-1995 Beastie_Boys Ill_Communication
+vintage_disc 176 1 200 1 5
+disc 177 13 90 cd atlantic 07-04-1992 R_E_M Automatic_for_the_People
+disc 178 9 102 vinyl reprise 19-11-1973 Neil_Young Tonight_s_the_Night
+haina 179 10 35 seafoam versace
+haina 180 5 50 royal purple fendi
+disc 181 20 115 cd mercury 10-01-1969 The_Rolling_Stones Let_It_Bleed
+disc 182 18 96 vinyl emi 14-08-1994 Blur Parklife
+vintage_disc 183 7 155 1 4
+haina 184 16 54 midnight_black stone_island
+haina 185 14 38 topaz diesel
+haina 186 12 43 ruby supreme
+haina 187 9 33 bronze gucci
+disc 188 21 128 cd elektra 29-09-1992 The_Cure Wish
+disc 189 11 145 vinyl capitol 20-10-1995 Foo_Fighters Foo_Fighters
+vintage_disc 190 6 165 0 3
+haina 191 10 29 periwinkle uniqlo
+haina 192 8 35 lavender bershka
+disc 193 12 132 cd sony_music 03-05-2000 Bon_Jovi Crush
+disc 194 13 105 vinyl emi 19-07-1985 Dire_Straits Brothers_in_Arms
+vintage_disc 195 4 118 1 4
+haina 196 14 26 ochre h&m
+haina 197 15 37 maroon balenciaga
+haina 198 16 41 copper puma
+haina 199 9 45 sapphire tommy_hilfiger
+haina 200 7 33 obsidian nike
+disc 201 22 130 cd emi 02-06-1971 The_Doors L_A_Woman
+disc 202 18 98 vinyl motown 12-09-1979 Marvin_Gaye Let_s_Get_It_On
+vintage_disc 203 5 140 1 4
+disc 204 19 110 cd columbia 17-03-1987 U2 The_Joshua_Tree
+vintage_disc 205 3 150 0 5
+disc 206 12 85 cd island 10-04-1984 U2 The_Unforgettable_Fire
+disc 207 21 95 vinyl mca 13-07-1981 Stevie_Wonder Hotter_Than_July
+vintage_disc 208 7 170 1 5
+disc 209 20 120 cd atlantic 14-08-1975 Yes Going_for_the_One
+disc 210 15 135 vinyl asylum 21-02-1976 Eagles Hotel_California
+vintage_disc 211 6 200 1 3
+disc 212 25 140 cd warner 03-05-1977 Fleetwood_Mac Rumours
+vintage_disc 213 8 220 0 5
+disc 214 18 88 vinyl atlantic 09-03-1978 Foreigner Double_Vision
+disc 215 30 90 cd epic 05-10-1999 Santana Supernatural
+disc 216 27 75 cd sony 11-06-1986 Boston Third_Stage
+vintage_disc 217 5 165 1 4
+disc 218 16 135 vinyl elektra 17-07-1983 Motley_Crue Shout_at_the_Devil
+disc 219 19 110 cd def_jam 21-09-1993 DMX It_s_Dark_and_Hell_Is
+disc 220 14 92 cd emi 12-11-1998 Oasis Be_Here_Now
+disc 221 17 88 vinyl geffen 25-06-1991 Guns_N_Roses Use_Your_Illusion_I
+vintage_disc 222 4 150 1 5
+disc 223 20 110 cd sony 15-03-2004 Franz_Ferdinand Franz_Ferdinand
+vintage_disc 224 7 175 1 4
+disc 225 12 140 vinyl atlantic 11-12-1980 AC_DC Back_in_Black
+disc 226 19 130 cd capitol 22-09-1979 Pink_Floyd The_Wall
+vintage_disc 227 5 165 1 3
+disc 228 18 125 cd mercury 04-06-1976 Queen A_Night_at_the_Opera
+vintage_disc 229 3 120 0 2
+disc 230 11 105 vinyl epic 10-05-1987 Michael_Jackson Bad
+vintage_disc 231 2 145 0 4
+disc 232 16 150 cd elektra 07-02-1981 Metallica Kill_Em_All
+vintage_disc 233 6 155 1 5
+disc 234 13 118 vinyl sony_music 09-11-1992 R_E_M Out_of_Time
+disc 235 9 135 cd warner_bros 18-05-1990 Alice_In_Chains Dirt
+vintage_disc 236 4 170 1 4
+disc 237 10 145 vinyl emi 25-08-1973 David_Bowie Aladdin_Sane
+vintage_disc 238 5 160 1 5
+disc 239 8 115 cd sony 17-07-1985 Dire_Straits Money_for_Nothing
+disc 240 12 95 vinyl def_jam 22-04-1998 Beastie_Boys Hello_Nasty
+vintage_disc 241 7 155 1 3
+disc 242 19 110 cd atlantic 20-02-1977 Fleetwood_Mac Tusk
+vintage_disc 243 6 180 0 5
+disc 244 15 120 vinyl def_jam 15-11-1996 Jay_Z Reasonable_Doubt
+disc 245 14 132 cd columbia 28-01-1982 Toto Toto_IV
+vintage_disc 246 3 145 1 4
+disc 247 11 140 vinyl warner 30-09-1989 Tom_Petty Full_Moon_Fever
+vintage_disc 248 9 165 0 5

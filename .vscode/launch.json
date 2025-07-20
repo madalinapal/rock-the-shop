@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/madalinapalade/Desktop/POO/ROCK_THE_SHOP",
+      "program": "/Users/madalinapalade/Desktop/POO/ROCK_THE_SHOP/build/Debug/outDebug"
+    }
+  ]
+}
