@@ -77,6 +77,3 @@ Mădălina Ioana Palade
 Faculty of Automatic Control and Computers  
 Bucharest, Romania  
 
-## License
-
-This project is for academic purposes. Please credit the author if you use or adapt the code.
